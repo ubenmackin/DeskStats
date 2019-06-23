@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>iStat Revisited</title>
+<item>
+<title>1.0</title>
+<description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>This is the initial release.</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>None</li>
+</ul>
+]]>
+</description>
+<pubDate>Thu, 20 Jun 2019 10:52:24 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.0/iStat.Revisited.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6836443" type="application/octet-stream"/>
+</item>
+<item>
+<title>1.1</title>
+  <description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>Added temperature and fan monitoring</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>None</li>
+</ul>
+]]>
+</description>
+<pubDate>Thu, 20 Jun 2019 22:54:40 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.1/iStat.Revisited.zip" sparkle:version="2" sparkle:shortVersionString="1.1" length="6972878" type="application/octet-stream"/>
+</item>
+<item>
+<title>1.2</title>
+<description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>Fixed high CPU usage on inital launch, do to bad default timer settings.</li>
+<li>Fixed other default preferences to have more sane defaults.</li>
+<li>Moved the Temperature preference pane before the Update preference pane.</li>
+<li>Fixed the update frequency sliders to properly disable when the pane is not shown.</li>
+</ul>
+]]>
+</description>
+<pubDate>Fri, 21 Jun 2019 14:23:48 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.2/iStat.Revisited.zip" sparkle:version="3" sparkle:shortVersionString="1.2" length="6974401" type="application/octet-stream"/>
+</item>
+<item>
+<title>1.3</title>
+<description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>Added code to get network bytes used since boot</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>None</li>
+</ul>
+]]>
+</description>
+<pubDate>Fri, 21 Jun 2019 21:42:39 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.3/iStat.Revisited.zip" sparkle:version="4" sparkle:shortVersionString="1.3" length="6986019" type="application/octet-stream"/>
+</item>
+</channel>
+<channel>
+<title>DeskStats</title>
+<item>
+<title>1.4</title>
+<description><![CDATA[
+Application has been renmaed to DeskStats
+]]>
+</description>
+<pubDate>Sat, 22 Jun 2019 11:14:56 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.4/DeskStats.zip" sparkle:version="5" sparkle:shortVersionString="1.4" length="7076427" type="application/octet-stream"/>
+</item>
+</channel>
+</rss>
+
+
+
