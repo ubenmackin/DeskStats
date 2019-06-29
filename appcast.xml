@@ -35,5 +35,22 @@
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://github.com/ubenmackin/DeskStats/releases/download/v1.5/DeskStats.zip" sparkle:version="15" sparkle:shortVersionString="1.5" length="7081693" type="application/octet-stream"/>
 </item>
+<item>
+<title>1.6</title>
+<description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>Fixed bug that didn't properly space new disks that were added</li>
+</ul>
+]]>
+</description>
+<pubDate>Fri, 28 Jun 2019 22:25:32 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/DeskStats/releases/download/v1.6/DeskStats.zip" sparkle:version="16" sparkle:shortVersionString="1.6" length="7081673" type="application/octet-stream"/>
+</item>
 </channel>
 </rss>
