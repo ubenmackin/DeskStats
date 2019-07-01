@@ -52,5 +52,23 @@
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://github.com/ubenmackin/DeskStats/releases/download/v1.6/DeskStats.zip" sparkle:version="16" sparkle:shortVersionString="1.6" length="7081673" type="application/octet-stream"/>
 </item>
+<item>
+<title>1.7</title>
+<description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>Change to how disks being mounted/unmounted is detected.</li>
+<li>Changed how/when the running network total gets updated.</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>Fixed bug for drawing of new disks being mounted.</li>
+</ul>
+]]>
+</description>
+<pubDate>Mon, 01 Jul 2019 09:28:07 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/DeskStats/releases/download/v1.7/DeskStats.zip" sparkle:version="17" sparkle:shortVersionString="1.7" length="7082550" type="application/octet-stream"/>
+</item>
 </channel>
 </rss>
