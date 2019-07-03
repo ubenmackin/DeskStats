@@ -70,5 +70,23 @@
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://github.com/ubenmackin/DeskStats/releases/download/v1.7/DeskStats.zip" sparkle:version="17" sparkle:shortVersionString="1.7" length="7082550" type="application/octet-stream"/>
 </item>
+<item>
+<title>1.8</title>
+<description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>Fix for battery status text.</li>
+<li>Fix for battery progress bar.</li>
+</ul>
+]]>
+</description>
+<pubDate>Tue, 02 Jul 2019 19:04:39 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/DeskStats/releases/download/v1.8/DeskStats.zip" sparkle:version="18" sparkle:shortVersionString="1.8" length="7082639" type="application/octet-stream"/>
+</item>
 </channel>
 </rss>
