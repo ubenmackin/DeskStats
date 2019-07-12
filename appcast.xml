@@ -98,7 +98,7 @@
 <h2>Bug Fixes</h2>
 <ul>
 <li>Fix unit display for disks to show TB (Terabytes).</li>
-<li>Fix some cases where disk woudl show with 0 bytes available when there was still space left.</li>
+<li>Fix some cases where disk would show with 0 bytes available when there was still space left.</li>
 </ul>
 ]]>
 </description>
